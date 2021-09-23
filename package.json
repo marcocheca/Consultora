@@ -1,0 +1,23 @@
+{
+  "name": "consultora",
+  "version": "1.0.0",
+  "description": "...",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcocheca/Consultora.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcocheca/Consultora/issues"
+  },
+  "homepage": "https://github.com/marcocheca/Consultora#readme",
+  "dependencies": {
+    "expess": "0.0.1-security",
+    "express": "^4.17.1"
+  }
+}
